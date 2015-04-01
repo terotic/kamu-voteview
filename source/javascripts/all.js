@@ -1,3 +1,7 @@
+//= require "jquery"
+//= require "bootstrap"
+//= require "d3"
+
 var data; // a global
 
 var formatter = d3.time.format("%Y");
@@ -13,12 +17,15 @@ d3.json(sourceURL, function(error, json) {
 //var data = [4, 8, 15, 16, 23, 42];
 
 function visualizeit() {
-  d3.select(".chart")
+  
+  var vis = d3.select(".chart")
     .selectAll("div")
       .data(data.votes)
-    .enter().append("div")
+      .enter().append("div")
       .attr("class", function(d) { return d.vote; })
-      .attr("title", function(d) { return d.member.name; });
+      .attr("title", function(d) { return d.member.name; })
+      .attr("data-toggle", "tooltip");
+  $('[data-toggle="tooltip"]').tooltip()
 }
 
 //formatter(parseDate(d.member.birth_date))

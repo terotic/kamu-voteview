@@ -53,6 +53,13 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+sprockets.append_path File.join root, 'bower_components'
+
+sprockets.import_asset 'jquery'
+sprockets.import_asset 'bootstrap'
+sprockets.import_asset 'd3'
+sprockets.import_asset 'bootstrap/less/bootstrap.less'
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment

@@ -1,9 +1,18 @@
 @charset "utf-8";
+@import "bootstrap/less/bootstrap";
 
 body {
   background: #d4d4d4 url("../images/background.png");
   text-align: center;
   font-family: sans-serif; }
+
+.vote-widget {
+  .make-row();
+}
+
+.chart {
+.make-sm-column(6);
+}
 
 .chart div {
   width: 25px;
@@ -26,7 +35,7 @@ body {
 }
 
 .chart div.A {
-  background-color: dimgrey;
+  background-color: lightgray;
 }
 
 .chart div.E {
