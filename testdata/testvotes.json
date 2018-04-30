@@ -1,0 +1,2013 @@
+[
+  {
+    "id": 10170,
+    "info_link": null,
+    "last_checked_time": "2014-12-12T20:13:24.692546",
+    "last_modified_time": "2014-12-12T20:13:24.692540",
+    "number": 14,
+    "plenary_session": "/api/v1/plenary_session/1968/",
+    "resource_uri": "/api/v1/plenary_vote/10170/",
+    "session_item": "/api/v1/plenary_session_item/24709/",
+    "setting": "1. lakiehdotus, hyväksyminen / hylkääminen",
+    "subject": "Kansalaisaloite eduskunnalle avioliittolain, rekisteröidystä parisuhteesta annetun lain ja transseksuaalin sukupuolen vahvistamisesta annetun lain muuttamisesta (KAA 3/2013 vp)",
+    "time": "2014-12-12T13:51:00",
+    "vote_counts": {
+      "A": 7,
+      "E": 1,
+      "N": 90,
+      "S": 0,
+      "Y": 101
+    },
+    "votes": [{
+      "member": {
+        "birth_date": "1957-08-18",
+        "district": "Satakunnan",
+        "gender": "m",
+        "name": "Ahvenjärvi Sauli",
+        "party": "kd",
+        "print_name": "Sauli Ahvenjärvi"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1965-03-19",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Mäkinen Tapani",
+        "party": "kok",
+        "print_name": "Tapani Mäkinen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1966-06-14",
+        "district": "Helsingin",
+        "gender": "f",
+        "name": "Alanko-Kahiluoto Outi",
+        "party": "vihr",
+        "print_name": "Outi Alanko-Kahiluoto"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1947-05-06",
+        "district": "Pirkanmaan",
+        "gender": "f",
+        "name": "Mäkipää Lea",
+        "party": "ps",
+        "print_name": "Lea Mäkipää"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1951-05-01",
+        "district": "Pirkanmaan",
+        "gender": "m",
+        "name": "Alatalo Mikko",
+        "party": "kesk",
+        "print_name": "Mikko Alatalo"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1958-04-20",
+        "district": "Pohjois-Karjalan",
+        "gender": "f",
+        "name": "Mäkisalo-Ropponen Merja",
+        "party": "sd",
+        "print_name": "Merja Mäkisalo-Ropponen"
+      },
+      "vote": "A"
+    }, {
+      "member": {
+        "birth_date": "1943-12-20",
+        "district": "Hämeen",
+        "gender": "f",
+        "name": "Anttila Sirkka-Liisa",
+        "party": "kesk",
+        "print_name": "Sirkka-Liisa Anttila"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1982-03-16",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Männistö Lasse",
+        "party": "kok",
+        "print_name": "Lasse Männistö"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1976-12-13",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Arhinmäki Paavo",
+        "party": "vas",
+        "print_name": "Paavo Arhinmäki"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1974-09-19",
+        "district": "Lapin",
+        "gender": "f",
+        "name": "Mäntylä Hanna",
+        "party": "ps",
+        "print_name": "Hanna Mäntylä"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1984-08-23",
+        "district": "Lapin",
+        "gender": "m",
+        "name": "Autto Heikki",
+        "party": "kok",
+        "print_name": "Heikki Autto"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1954-04-17",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Mäntymaa Markku",
+        "party": "kok",
+        "print_name": "Markku Mäntymaa"
+      },
+      "vote": "A"
+    }, {
+      "member": {
+        "birth_date": "1959-03-30",
+        "district": "Etelä-Savon",
+        "gender": "m",
+        "name": "Backman Jouni",
+        "party": "sd",
+        "print_name": "Jouni Backman"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1952-04-02",
+        "district": "Pirkanmaan",
+        "gender": "m",
+        "name": "Mölsä Martti",
+        "party": "ps",
+        "print_name": "Martti Mölsä"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1965-01-15",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Blomqvist Thomas",
+        "party": "r",
+        "print_name": "Thomas Blomqvist"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1952-03-07",
+        "district": "Ahvenanmaan maakunnan",
+        "gender": "f",
+        "name": "Nauclér Elisabeth",
+        "party": "r",
+        "print_name": "Elisabeth Nauclér"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1965-01-06",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Brax Tuija",
+        "party": "vihr",
+        "print_name": "Tuija Brax"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1967-01-20",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Niikko Mika",
+        "party": "ps",
+        "print_name": "Mika Niikko"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1933-02-05",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Donner Jörn",
+        "party": "r",
+        "print_name": "Jörn Donner"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1970-10-27",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Niinistö Jussi",
+        "party": "ps",
+        "print_name": "Jussi Niinistö"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1975-02-24",
+        "district": "Kymen",
+        "gender": "m",
+        "name": "Eerola Juho",
+        "party": "ps",
+        "print_name": "Juho Eerola"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1976-07-30",
+        "district": "Varsinais-Suomen",
+        "gender": "m",
+        "name": "Niinistö Ville",
+        "party": "vihr",
+        "print_name": "Ville Niinistö"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1956-07-23",
+        "district": "Pohjois-Savon",
+        "gender": "m",
+        "name": "Eestilä Markku",
+        "party": "kok",
+        "print_name": "Markku Eestilä"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1970-03-27",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Nylander Mikaela",
+        "party": "r",
+        "print_name": "Mikaela Nylander"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1955-07-16",
+        "district": "Varsinais-Suomen",
+        "gender": "f",
+        "name": "Elomaa Ritva",
+        "party": "ps",
+        "print_name": "Ritva Elomaa"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1964-08-01",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Nylund Mats",
+        "party": "r",
+        "print_name": "Mats Nylund"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1966-03-04",
+        "district": "Varsinais-Suomen",
+        "gender": "f",
+        "name": "Eloranta Eeva-Johanna",
+        "party": "sd",
+        "print_name": "Eeva-Johanna Eloranta"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1952-06-11",
+        "district": "Pohjois-Savon",
+        "gender": "m",
+        "name": "Oinonen Pentti",
+        "party": "ps",
+        "print_name": "Pentti Oinonen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1968-04-26",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Feldt-Ranta Maarit",
+        "party": "sd",
+        "print_name": "Maarit Feldt-Ranta"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1974-10-01",
+        "district": "Lapin",
+        "gender": "f",
+        "name": "Ojala-Niemelä Johanna",
+        "party": "sd",
+        "print_name": "Johanna Ojala-Niemelä"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1963-08-09",
+        "district": "Hämeen",
+        "gender": "f",
+        "name": "Filatov Tarja",
+        "party": "sd",
+        "print_name": "Tarja Filatov"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1969-11-03",
+        "district": "Varsinais-Suomen",
+        "gender": "m",
+        "name": "Orpo Petteri",
+        "party": "kok",
+        "print_name": "Petteri Orpo"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1967-01-12",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Gestrin Christina",
+        "party": "r",
+        "print_name": "Christina Gestrin"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1972-11-24",
+        "district": "Varsinais-Suomen",
+        "gender": "f",
+        "name": "Paasio Heli",
+        "party": "sd",
+        "print_name": "Heli Paasio"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1983-05-04",
+        "district": "Hämeen",
+        "gender": "f",
+        "name": "Grahn-Laasonen Sanni",
+        "party": "kok",
+        "print_name": "Sanni Grahn-Laasonen"
+      },
+      "vote": "A"
+    }, {
+      "member": {
+        "birth_date": "1964-09-09",
+        "district": "Kymen",
+        "gender": "f",
+        "name": "Paatero Sirpa",
+        "party": "sd",
+        "print_name": "Sirpa Paatero"
+      },
+      "vote": "A"
+    }, {
+      "member": {
+        "birth_date": "1947-01-02",
+        "district": "Pirkanmaan",
+        "gender": "m",
+        "name": "Gustafsson Jukka",
+        "party": "sd",
+        "print_name": "Jukka Gustafsson"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1969-10-05",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Packalén Tom",
+        "party": "ps",
+        "print_name": "Tom Packalén"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1969-01-12",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Guzenina Maria",
+        "party": "sd",
+        "print_name": "Maria Guzenina"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1966-05-17",
+        "district": "Kymen",
+        "gender": "f",
+        "name": "Palm Sari",
+        "party": "kd",
+        "print_name": "Sari Palm"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1946-05-28",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Gästgivars Lars Erik",
+        "party": "r",
+        "print_name": "Lars Erik Gästgivars"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1976-01-13",
+        "district": "Keski-Suomen",
+        "gender": "m",
+        "name": "Palola Mikael",
+        "party": "kok",
+        "print_name": "Mikael Palola"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1969-03-03",
+        "district": "Oulun",
+        "gender": "f",
+        "name": "Haapanen Satu",
+        "party": "vihr",
+        "print_name": "Satu Haapanen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1956-01-28",
+        "district": "Keski-Suomen",
+        "gender": "f",
+        "name": "Paloniemi Aila",
+        "party": "kesk",
+        "print_name": "Aila Paloniemi"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1958-03-23",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Haavisto Pekka",
+        "party": "vihr",
+        "print_name": "Pekka Haavisto"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1947-10-06",
+        "district": "Keski-Suomen",
+        "gender": "m",
+        "name": "Pekkarinen Mauri",
+        "party": "kesk",
+        "print_name": "Mauri Pekkarinen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1960-04-12",
+        "district": "Keski-Suomen",
+        "gender": "m",
+        "name": "Hakkarainen Teuvo",
+        "party": "ps",
+        "print_name": "Teuvo Hakkarainen"
+      },
+      "vote": "A"
+    }, {
+      "member": {
+        "birth_date": "1979-01-24",
+        "district": "Hämeen",
+        "gender": "f",
+        "name": "Pekonen Aino-Kaisa",
+        "party": "vas",
+        "print_name": "Aino-Kaisa Pekonen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1963-03-28",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Harkimo Leena",
+        "party": "kok",
+        "print_name": "Leena Harkimo"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1977-01-27",
+        "district": "Helsingin",
+        "gender": "f",
+        "name": "Pelkonen Jaana",
+        "party": "kok",
+        "print_name": "Jaana Pelkonen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1963-01-22",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Hautala Lasse",
+        "party": "kesk",
+        "print_name": "Lasse Hautala"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1975-06-25",
+        "district": "Helsingin",
+        "gender": "f",
+        "name": "Peltokorpi Terhi",
+        "party": "kesk",
+        "print_name": "Terhi Peltokorpi"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1957-06-24",
+        "district": "Varsinais-Suomen",
+        "gender": "m",
+        "name": "Heikkilä Lauri",
+        "party": "ps",
+        "print_name": "Lauri Heikkilä"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1962-09-04",
+        "district": "Keski-Suomen",
+        "gender": "f",
+        "name": "Peltonen Tuula",
+        "party": "sd",
+        "print_name": "Tuula Peltonen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1975-02-15",
+        "district": "Hämeen",
+        "gender": "m",
+        "name": "Heinonen Timo",
+        "party": "kok",
+        "print_name": "Timo Heinonen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1952-12-22",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Piirainen Raimo",
+        "party": "sd",
+        "print_name": "Raimo Piirainen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1955-08-24",
+        "district": "Varsinais-Suomen",
+        "gender": "m",
+        "name": "Hemmilä Pertti",
+        "party": "kok",
+        "print_name": "Pertti Hemmilä"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1963-04-04",
+        "district": "Pirkanmaan",
+        "gender": "m",
+        "name": "Pirttilahti Arto",
+        "party": "kesk",
+        "print_name": "Arto Pirttilahti"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1964-01-07",
+        "district": "Vaasan",
+        "gender": "f",
+        "name": "Henriksson Anna-Maja",
+        "party": "r",
+        "print_name": "Anna-Maja Henriksson"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1982-04-03",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Puumala Tuomo",
+        "party": "kesk",
+        "print_name": "Tuomo Puumala"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1940-07-02",
+        "district": "Helsingin",
+        "gender": "f",
+        "name": "Hiltunen Rakel",
+        "party": "sd",
+        "print_name": "Rakel Hiltunen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1961-11-07",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Raatikainen Mika",
+        "party": "ps",
+        "print_name": "Mika Raatikainen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1960-07-02",
+        "district": "Hämeen",
+        "gender": "m",
+        "name": "Hirvisaari James",
+        "party": "m11",
+        "print_name": "James Hirvisaari"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1948-10-15",
+        "district": "Pohjois-Savon",
+        "gender": "m",
+        "name": "Rajamäki Kari",
+        "party": "sd",
+        "print_name": "Kari Rajamäki"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1964-04-18",
+        "district": "Satakunnan",
+        "gender": "f",
+        "name": "Holmlund Anne",
+        "party": "kok",
+        "print_name": "Anne Holmlund"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1964-02-28",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Rantakangas Antti",
+        "party": "kesk",
+        "print_name": "Antti Rantakangas"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1962-04-16",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Hongisto Reijo",
+        "party": "ps",
+        "print_name": "Reijo Hongisto"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1942-02-28",
+        "district": "Pirkanmaan",
+        "gender": "f",
+        "name": "Rauhala Leena",
+        "party": "kd",
+        "print_name": "Leena Rauhala"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1972-06-10",
+        "district": "Keski-Suomen",
+        "gender": "f",
+        "name": "Huovinen Susanna",
+        "party": "sd",
+        "print_name": "Susanna Huovinen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1949-11-26",
+        "district": "Pohjois-Karjalan",
+        "gender": "m",
+        "name": "Ravi Pekka",
+        "party": "kok",
+        "print_name": "Pekka Ravi"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1980-01-26",
+        "district": "Oulun",
+        "gender": "f",
+        "name": "Hänninen Katja",
+        "party": "vas",
+        "print_name": "Katja Hänninen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1963-06-03",
+        "district": "Hämeen",
+        "gender": "m",
+        "name": "Rehula Juha",
+        "party": "kesk",
+        "print_name": "Juha Rehula"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1947-05-14",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Ihalainen Lauri",
+        "party": "sd",
+        "print_name": "Lauri Ihalainen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1947-09-10",
+        "district": "Pohjois-Karjalan",
+        "gender": "m",
+        "name": "Reijonen Eero",
+        "party": "kesk",
+        "print_name": "Eero Reijonen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1986-02-18",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Immonen Olli",
+        "party": "ps",
+        "print_name": "Olli Immonen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1960-06-04",
+        "district": "Vaasan",
+        "gender": "f",
+        "name": "Risikko Paula",
+        "party": "kok",
+        "print_name": "Paula Risikko"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1974-12-05",
+        "district": "Satakunnan",
+        "gender": "m",
+        "name": "Jalonen Ari",
+        "party": "ps",
+        "print_name": "Ari Jalonen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1956-03-05",
+        "district": "Pohjois-Savon",
+        "gender": "m",
+        "name": "Rossi Markku",
+        "party": "kesk",
+        "print_name": "Markku Rossi"
+      },
+      "vote": "E"
+    }, {
+      "member": {
+        "birth_date": "1964-03-26",
+        "district": "Pirkanmaan",
+        "gender": "m",
+        "name": "Jaskari Harri",
+        "party": "kok",
+        "print_name": "Harri Jaskari"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1953-06-28",
+        "district": "Lapin",
+        "gender": "m",
+        "name": "Rundgren Simo",
+        "party": "kesk",
+        "print_name": "Simo Rundgren"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1961-08-07",
+        "district": "Hämeen",
+        "gender": "m",
+        "name": "Jokinen Kalle",
+        "party": "kok",
+        "print_name": "Kalle Jokinen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1957-02-06",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Ruohonen-Lerner Pirkko",
+        "party": "ps",
+        "print_name": "Pirkko Ruohonen-Lerner"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1943-09-17",
+        "district": "Satakunnan",
+        "gender": "m",
+        "name": "Joutsenlahti Anssi",
+        "party": "ps",
+        "print_name": "Anssi Joutsenlahti"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1959-12-19",
+        "district": "Hämeen",
+        "gender": "f",
+        "name": "Räsänen Päivi",
+        "party": "kd",
+        "print_name": "Päivi Räsänen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1965-04-20",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Jungner Mikael",
+        "party": "sd",
+        "print_name": "Mikael Jungner"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1984-03-24",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Saarakkala Vesa-Matti",
+        "party": "ps",
+        "print_name": "Vesa-Matti Saarakkala"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1977-05-16",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Jurva Johanna",
+        "party": "ps",
+        "print_name": "Johanna Jurva"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1983-11-10",
+        "district": "Varsinais-Suomen",
+        "gender": "f",
+        "name": "Saarikko Annika",
+        "party": "kesk",
+        "print_name": "Annika Saarikko"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1967-12-08",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Juvonen Arja",
+        "party": "ps",
+        "print_name": "Arja Juvonen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1947-06-16",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Saarinen Matti",
+        "party": "sd",
+        "print_name": "Matti Saarinen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1952-03-18",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Jääskeläinen Jouko",
+        "party": "kd",
+        "print_name": "Jouko Jääskeläinen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1940-10-19",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Salolainen Pertti",
+        "party": "kok",
+        "print_name": "Pertti Salolainen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1947-06-20",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Jääskeläinen Pietari",
+        "party": "ps",
+        "print_name": "Pietari Jääskeläinen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1977-06-07",
+        "district": "Satakunnan",
+        "gender": "f",
+        "name": "Salonen Kristiina",
+        "party": "sd",
+        "print_name": "Kristiina Salonen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1974-02-14",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Kaikkonen Antti",
+        "party": "kesk",
+        "print_name": "Antti Kaikkonen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1967-01-01",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Sankelo Janne",
+        "party": "kok",
+        "print_name": "Janne Sankelo"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1947-02-22",
+        "district": "Satakunnan",
+        "gender": "m",
+        "name": "Kalli Timo",
+        "party": "kesk",
+        "print_name": "Timo Kalli"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1965-09-24",
+        "district": "Helsingin",
+        "gender": "f",
+        "name": "Sarkomaa Sari",
+        "party": "kok",
+        "print_name": "Sari Sarkomaa"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1971-10-11",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Kalliorinne Risto",
+        "party": "vas",
+        "print_name": "Risto Kalliorinne"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1952-02-21",
+        "district": "Pirkanmaan",
+        "gender": "m",
+        "name": "Sasi Kimmo",
+        "party": "kok",
+        "print_name": "Kimmo Sasi"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1968-04-20",
+        "district": "Keski-Suomen",
+        "gender": "f",
+        "name": "Kalmari Anne",
+        "party": "kesk",
+        "print_name": "Anne Kalmari"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1966-10-20",
+        "district": "Pirkanmaan",
+        "gender": "m",
+        "name": "Satonen Arto",
+        "party": "kok",
+        "print_name": "Arto Satonen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1948-01-28",
+        "district": "Varsinais-Suomen",
+        "gender": "m",
+        "name": "Kanerva Ilkka",
+        "party": "kok",
+        "print_name": "Ilkka Kanerva"
+      },
+      "vote": "A"
+    }, {
+      "member": {
+        "birth_date": "1981-11-29",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Savola Mikko",
+        "party": "kesk",
+        "print_name": "Mikko Savola"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1957-03-17",
+        "district": "Varsinais-Suomen",
+        "gender": "m",
+        "name": "Kantola Ilkka",
+        "party": "sd",
+        "print_name": "Ilkka Kantola"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1973-07-20",
+        "district": "Helsingin",
+        "gender": "f",
+        "name": "Sinnemäki Anni",
+        "party": "vihr",
+        "print_name": "Anni Sinnemäki"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1957-11-06",
+        "district": "Pirkanmaan",
+        "gender": "f",
+        "name": "Karhu Saara",
+        "party": "sd",
+        "print_name": "Saara Karhu"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1961-04-25",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Sipilä Juha",
+        "party": "kesk",
+        "print_name": "Juha Sipilä"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1967-08-19",
+        "district": "Hämeen",
+        "gender": "m",
+        "name": "Kari Mika",
+        "party": "sd",
+        "print_name": "Mika Kari"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1946-08-12",
+        "district": "Hämeen",
+        "gender": "m",
+        "name": "Skinnari Jouko",
+        "party": "sd",
+        "print_name": "Jouko Skinnari"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1973-03-20",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Karimäki Johanna",
+        "party": "vihr",
+        "print_name": "Johanna Karimäki"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1962-05-30",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Soini Timo",
+        "party": "ps",
+        "print_name": "Timo Soini"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1966-12-17",
+        "district": "Pohjois-Savon",
+        "gender": "f",
+        "name": "Katainen Elsi",
+        "party": "kesk",
+        "print_name": "Elsi Katainen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1951-09-02",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Soininvaara Osmo",
+        "party": "vihr",
+        "print_name": "Osmo Soininvaara"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1972-04-03",
+        "district": "Satakunnan",
+        "gender": "m",
+        "name": "Kataja Sampsa",
+        "party": "kok",
+        "print_name": "Sampsa Kataja"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1960-09-08",
+        "district": "Hämeen",
+        "gender": "m",
+        "name": "Soukola Ismo",
+        "party": "ps",
+        "print_name": "Ismo Soukola"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1966-10-20",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Kauma Pia",
+        "party": "kok",
+        "print_name": "Pia Kauma"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1968-04-01",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Stubb Alexander",
+        "party": "kok",
+        "print_name": "Alexander Stubb"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1957-03-18",
+        "district": "Oulun",
+        "gender": "f",
+        "name": "Kerola Inkeri",
+        "party": "kesk",
+        "print_name": "Inkeri Kerola"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1956-12-27",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Suutari Eero",
+        "party": "kok",
+        "print_name": "Eero Suutari"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1942-02-25",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Kettunen Pentti",
+        "party": "ps",
+        "print_name": "Pentti Kettunen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1974-11-23",
+        "district": "Varsinais-Suomen",
+        "gender": "f",
+        "name": "Taimela Katja",
+        "party": "sd",
+        "print_name": "Katja Taimela"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1957-09-17",
+        "district": "Kymen",
+        "gender": "f",
+        "name": "Kiljunen Anneli",
+        "party": "sd",
+        "print_name": "Anneli Kiljunen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1960-09-20",
+        "district": "Pirkanmaan",
+        "gender": "f",
+        "name": "Tainio Hanna",
+        "party": "sd",
+        "print_name": "Hanna Tainio"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1974-08-05",
+        "district": "Satakunnan",
+        "gender": "f",
+        "name": "Kiuru Krista",
+        "party": "sd",
+        "print_name": "Krista Kiuru"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1945-12-24",
+        "district": "Keski-Suomen",
+        "gender": "f",
+        "name": "Tiainen Eila",
+        "party": "vas",
+        "print_name": "Eila Tiainen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1962-12-08",
+        "district": "Pirkanmaan",
+        "gender": "m",
+        "name": "Kiuru Pauli",
+        "party": "kok",
+        "print_name": "Pauli Kiuru"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1966-08-17",
+        "district": "Kymen",
+        "gender": "m",
+        "name": "Tiilikainen Kimmo",
+        "party": "kesk",
+        "print_name": "Kimmo Tiilikainen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1961-10-05",
+        "district": "Pohjois-Savon",
+        "gender": "m",
+        "name": "Kivelä Kimmo",
+        "party": "ps",
+        "print_name": "Kimmo Kivelä"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1961-09-28",
+        "district": "Etelä-Savon",
+        "gender": "f",
+        "name": "Toivakka Lenita",
+        "party": "kok",
+        "print_name": "Lenita Toivakka"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1950-09-02",
+        "district": "Varsinais-Suomen",
+        "gender": "m",
+        "name": "Kiviranta Esko",
+        "party": "kesk",
+        "print_name": "Esko Kiviranta"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1977-11-27",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Toivola Jani",
+        "party": "vihr",
+        "print_name": "Jani Toivola"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1954-11-17",
+        "district": "Pohjois-Karjalan",
+        "gender": "m",
+        "name": "Kokko Osmo",
+        "party": "ps",
+        "print_name": "Osmo Kokko"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1952-11-24",
+        "district": "Vaasan",
+        "gender": "f",
+        "name": "Tolppanen Maria",
+        "party": "ps",
+        "print_name": "Maria Tolppanen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1968-05-11",
+        "district": "Etelä-Savon",
+        "gender": "f",
+        "name": "Komi Katri",
+        "party": "kesk",
+        "print_name": "Katri Komi"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1961-07-24",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Tolvanen Kari",
+        "party": "kok",
+        "print_name": "Kari Tolvanen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1977-03-30",
+        "district": "Pirkanmaan",
+        "gender": "f",
+        "name": "Kontula Anna",
+        "party": "vas",
+        "print_name": "Anna Kontula"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1956-03-15",
+        "district": "Kymen",
+        "gender": "m",
+        "name": "Torniainen Ari",
+        "party": "kesk",
+        "print_name": "Ari Torniainen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1967-02-11",
+        "district": "Kymen",
+        "gender": "m",
+        "name": "Kopra Jukka",
+        "party": "kok",
+        "print_name": "Jukka Kopra"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1948-11-13",
+        "district": "Kymen",
+        "gender": "m",
+        "name": "Tossavainen Reijo",
+        "party": "ps",
+        "print_name": "Reijo Tossavainen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1953-02-27",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Korhonen Martti",
+        "party": "vas",
+        "print_name": "Martti Korhonen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1946-07-01",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Tuomioja Erkki",
+        "party": "sd",
+        "print_name": "Erkki Tuomioja"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1959-09-23",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Korhonen Timo V.",
+        "party": "kesk",
+        "print_name": "Timo V. Korhonen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1976-02-18",
+        "district": "Oulun",
+        "gender": "f",
+        "name": "Tuppurainen Tytti",
+        "party": "sd",
+        "print_name": "Tytti Tuppurainen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1949-03-03",
+        "district": "Pirkanmaan",
+        "gender": "f",
+        "name": "Koskela Laila",
+        "party": "kesk",
+        "print_name": "Laila Koskela"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1960-12-27",
+        "district": "Etelä-Savon",
+        "gender": "m",
+        "name": "Turunen Kaj",
+        "party": "ps",
+        "print_name": "Kaj Turunen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1954-12-10",
+        "district": "Hämeen",
+        "gender": "m",
+        "name": "Koskinen Johannes",
+        "party": "sd",
+        "print_name": "Johannes Koskinen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1940-05-08",
+        "district": "Keski-Suomen",
+        "gender": "m",
+        "name": "Tuupainen Kauko",
+        "party": "ps",
+        "print_name": "Kauko Tuupainen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1952-10-06",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Kurvinen Esko",
+        "party": "kok",
+        "print_name": "Esko Kurvinen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1977-09-25",
+        "district": "Pirkanmaan",
+        "gender": null,
+        "name": "Tynkkynen Oras",
+        "party": "vihr",
+        "print_name": "Oras Tynkkynen"
+      },
+      "vote": "A"
+    }, {
+      "member": {
+        "birth_date": "1954-12-04",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Kuusisto Merja",
+        "party": "sd",
+        "print_name": "Merja Kuusisto"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1951-06-13",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Tölli Tapani",
+        "party": "kesk",
+        "print_name": "Tapani Tölli"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1976-09-15",
+        "district": "Kymen",
+        "gender": "f",
+        "name": "Kymäläinen Suna",
+        "party": "sd",
+        "print_name": "Suna Kymäläinen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1955-01-04",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Uotila Kari",
+        "party": "vas",
+        "print_name": "Kari Uotila"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1955-11-14",
+        "district": "Kymen",
+        "gender": "m",
+        "name": "Kärnä Jukka",
+        "party": "sd",
+        "print_name": "Jukka Kärnä"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1966-09-27",
+        "district": "Kymen",
+        "gender": "f",
+        "name": "Urpalainen Anu",
+        "party": "kok",
+        "print_name": "Anu Urpalainen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1948-03-29",
+        "district": "Pohjois-Savon",
+        "gender": "m",
+        "name": "Kääriäinen Seppo",
+        "party": "kesk",
+        "print_name": "Seppo Kääriäinen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1975-08-04",
+        "district": "Vaasan",
+        "gender": "f",
+        "name": "Urpilainen Jutta",
+        "party": "sd",
+        "print_name": "Jutta Urpilainen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1955-03-18",
+        "district": "Varsinais-Suomen",
+        "gender": "f",
+        "name": "Lapintie Annika",
+        "party": "vas",
+        "print_name": "Annika Lapintie"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1961-03-10",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Vahasalo Raija",
+        "party": "kok",
+        "print_name": "Raija Vahasalo"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1966-04-07",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Lauslahti Sanna",
+        "party": "kok",
+        "print_name": "Sanna Lauslahti"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1953-05-23",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Wallin Harry",
+        "party": "sd",
+        "print_name": "Harry Wallin"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1944-08-23",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Lehti Eero",
+        "party": "kok",
+        "print_name": "Eero Lehti"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1967-06-01",
+        "district": "Varsinais-Suomen",
+        "gender": "m",
+        "name": "Wallin Stefan",
+        "party": "r",
+        "print_name": "Stefan Wallin"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1972-11-29",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Lehtomäki Paula",
+        "party": "kesk",
+        "print_name": "Paula Lehtomäki"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1972-03-09",
+        "district": "Keski-Suomen",
+        "gender": "m",
+        "name": "Wallinheimo Sinuhe",
+        "party": "kok",
+        "print_name": "Sinuhe Wallinheimo"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1981-10-23",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Lepomäki Elina",
+        "party": "kok",
+        "print_name": "Elina Lepomäki"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1965-04-03",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Vapaavuori Jan",
+        "party": "kok",
+        "print_name": "Jan Vapaavuori"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1959-06-24",
+        "district": "Etelä-Savon",
+        "gender": "m",
+        "name": "Leppä Jari",
+        "party": "kesk",
+        "print_name": "Jari Leppä"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1976-04-06",
+        "district": "Oulun",
+        "gender": "f",
+        "name": "Vehkaperä Mirja",
+        "party": "kesk",
+        "print_name": "Mirja Vehkaperä"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1965-06-28",
+        "district": "Kymen",
+        "gender": "m",
+        "name": "Lindström Jari",
+        "party": "ps",
+        "print_name": "Jari Lindström"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1963-09-09",
+        "district": "Pohjois-Karjalan",
+        "gender": "f",
+        "name": "Vehviläinen Anu",
+        "party": "kesk",
+        "print_name": "Anu Vehviläinen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1982-08-11",
+        "district": "Uudenmaan",
+        "gender": "m",
+        "name": "Lindtman Antti",
+        "party": "sd",
+        "print_name": "Antti Lindtman"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1951-10-22",
+        "district": "Vaasan",
+        "gender": "f",
+        "name": "Wideroos Ulla-Maj",
+        "party": "r",
+        "print_name": "Ulla-Maj Wideroos"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1966-04-15",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Lintilä Mika",
+        "party": "kesk",
+        "print_name": "Mika Lintilä"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1969-03-11",
+        "district": "Etelä-Savon",
+        "gender": "f",
+        "name": "Viitamies Pauliina",
+        "party": "sd",
+        "print_name": "Pauliina Viitamies"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1967-06-25",
+        "district": "Helsingin",
+        "gender": "f",
+        "name": "Lipponen Päivi",
+        "party": "sd",
+        "print_name": "Päivi Lipponen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1967-04-07",
+        "district": "Pirkanmaan",
+        "gender": "f",
+        "name": "Viitanen Pia",
+        "party": "sd",
+        "print_name": "Pia Viitanen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1978-06-11",
+        "district": "Varsinais-Suomen",
+        "gender": "f",
+        "name": "Lohela Maria",
+        "party": "ps",
+        "print_name": "Maria Lohela"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1983-05-12",
+        "district": "Pirkanmaan",
+        "gender": "f",
+        "name": "Vikman Sofia",
+        "party": "kok",
+        "print_name": "Sofia Vikman"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1972-06-16",
+        "district": "Lapin",
+        "gender": "m",
+        "name": "Lohi Markus",
+        "party": "kesk",
+        "print_name": "Markus Lohi"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1965-12-05",
+        "district": "Varsinais-Suomen",
+        "gender": "f",
+        "name": "Virolainen Anne-Mari",
+        "party": "kok",
+        "print_name": "Anne-Mari Virolainen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1965-01-08",
+        "district": "Hämeen",
+        "gender": "f",
+        "name": "Louhelainen Anne",
+        "party": "ps",
+        "print_name": "Anne Louhelainen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1952-08-15",
+        "district": "Pohjois-Savon",
+        "gender": "m",
+        "name": "Virtanen Erkki",
+        "party": "vas",
+        "print_name": "Erkki Virtanen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1967-12-23",
+        "district": "Lapin",
+        "gender": "f",
+        "name": "Maijala Eeva-Maria",
+        "party": "kesk",
+        "print_name": "Eeva-Maria Maijala"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1951-05-18",
+        "district": "Pirkanmaan",
+        "gender": "m",
+        "name": "Virtanen Pertti",
+        "party": "ps",
+        "print_name": "Pertti Virtanen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1965-02-03",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Matikainen-Kallström Marjo",
+        "party": "kok",
+        "print_name": "Marjo Matikainen-Kallström"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1979-03-30",
+        "district": "Oulun",
+        "gender": "m",
+        "name": "Vähämäki Ville",
+        "party": "ps",
+        "print_name": "Ville Vähämäki"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1964-04-02",
+        "district": "Oulun",
+        "gender": "f",
+        "name": "Mattila Pirkko",
+        "party": "ps",
+        "print_name": "Pirkko Mattila"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1941-07-12",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Väätäinen Juha",
+        "party": "ps",
+        "print_name": "Juha Väätäinen"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1976-07-08",
+        "district": "Helsingin",
+        "gender": "f",
+        "name": "Modig Silvia",
+        "party": "vas",
+        "print_name": "Silvia Modig"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1955-10-02",
+        "district": "Pohjois-Savon",
+        "gender": "f",
+        "name": "Väätäinen Tuula",
+        "party": "sd",
+        "print_name": "Tuula Väätäinen"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1963-02-24",
+        "district": "Lapin",
+        "gender": "m",
+        "name": "Mustajärvi Markus",
+        "party": "vas",
+        "print_name": "Markus Mustajärvi"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1952-05-04",
+        "district": "Varsinais-Suomen",
+        "gender": "m",
+        "name": "Yrttiaho Jyrki",
+        "party": "vas",
+        "print_name": "Jyrki Yrttiaho"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1956-07-12",
+        "district": "Pohjois-Karjalan",
+        "gender": "f",
+        "name": "Myller Riitta",
+        "party": "sd",
+        "print_name": "Riitta Myller"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1954-05-24",
+        "district": "Helsingin",
+        "gender": "m",
+        "name": "Zyskowicz Ben",
+        "party": "kok",
+        "print_name": "Ben Zyskowicz"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1959-06-27",
+        "district": "Satakunnan",
+        "gender": "m",
+        "name": "Myllykoski Jari",
+        "party": "vas",
+        "print_name": "Jari Myllykoski"
+      },
+      "vote": "Y"
+    }, {
+      "member": {
+        "birth_date": "1961-12-16",
+        "district": "Vaasan",
+        "gender": "m",
+        "name": "Åstman Peter",
+        "party": "kd",
+        "print_name": "Peter Åstman"
+      },
+      "vote": "N"
+    }, {
+      "member": {
+        "birth_date": "1974-08-16",
+        "district": "Uudenmaan",
+        "gender": "f",
+        "name": "Mäkelä Outi",
+        "party": "kok",
+        "print_name": "Outi Mäkelä"
+      },
+      "vote": "Y"
+    }]
+  }
+]
