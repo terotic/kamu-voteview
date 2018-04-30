@@ -148,7 +148,10 @@
         })
         .style("fill", function(d, i) {
           if (d.vote == "Y") return "#82DBA0";
-          else return "#E55171";
+          if (d.vote == "N") return "#E55171";
+          if (d.vote == "E") return "#B4D6EF";
+          if (d.vote == "A") return "#EEEEEE";
+          else return "#FFFFFF";
         })
         .on("mouseover", function(d) {
           div.transition()
